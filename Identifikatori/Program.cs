@@ -9,6 +9,12 @@ namespace CSharp.TipoviOperatori
     {
         static void Main(string[] args)
         {
+            System.String String;
+            String get;
+            String Main;
+            String u0161etrdesetšest;
+            String бројШест;
+
         }
     }
 }
