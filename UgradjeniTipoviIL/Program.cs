@@ -16,6 +16,14 @@ namespace CSharp.TipoviOperatori
             double dbl = 12.8;
             decimal dec = 134.45M;
             string mirko = "slavko";
+
+            int var;
+            int var2=4;
+            String rijec;
+            rijec = "String1";
+           
+            
+           
         }
     }
 }
