@@ -27,6 +27,7 @@ namespace CSharp.TipoviOperatori
 
             try
             {
+                //Radnik može biti Osoba ali osoba ne može biti Radnik
                 jankoSljaker = (Radnik)janko;
             }
             catch (Exception e)
